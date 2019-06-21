@@ -1,14 +1,34 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "current_price": [
+    {
+      "product_id": "13860428",
+      "value": 13.49,
+      "currency_code": "USD"
+    },
+    {
+      "product_id": "15117729",
+      "value": 121.78,
+      "currency_code": "INR"
+    },
+    {
+      "product_id": "16483589",
+      "value": 100.00,
+      "currency_code": "EUR"
+    },
+    {
+      "product_id": "16696652",
+      "value": 15.23,
+      "currency_code": "SGD"
+    },
+    {
+      "product_id": "16752456",
+      "value": 1345.96,
+      "currency_code": "INR"
+    },
+    {
+      "product_id": "15643793",
+      "value": 5.69,
+      "currency_code": "AED"
+    }
+  ]
 }
